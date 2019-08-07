@@ -7,6 +7,7 @@ import java.util.function.Function;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
+//dail
 
 //
 //public class Parallel {
